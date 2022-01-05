@@ -9,18 +9,14 @@ I am a 1A Software Engineering student currently studying at the Univeristy of W
 
 ### Experience
 _Custome Home Build_ -Project Manager 
+Stoney Creek, Ontario
+• Organized and facilitated the complete construction process from initial planning to house closing alongside professional contractors.
+• Applied working knowledge of local permitting and approval process while working with the city to obtain permits,
+approvals and final acceptance.
+• Interviewed and met with contractors to discuss scope of project, performance and budgets for a 5000sqft custom home
+build to be completed within set budget of 2.5 million dollars completed within 13 months
+• Designed the complete network system and utilized AutoCAD to create custom fittings for cable wall plates.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
