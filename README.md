@@ -1,7 +1,7 @@
 ## Alishba Alam
 Hi, I'm Alishba Alam!
 
-###**About Me**
+### **About Me**
 
 I am a 1A Software Engineering student currently studying at the Univeristy of Waterloo. I am interested in creating and developing apps, integrating computer science into day to day living while using new tools and technology to make the world around me a better and more adequate place.
 
