@@ -1,6 +1,5 @@
 
-## Alishba Alam
-Hi, I'm Alishba Alam!
+## Hi, I'm Alishba Alam!
 
 ### **About Me**
 
