@@ -40,7 +40,9 @@ build to be completed within set budget of 2.5 million dollars completed within 
 • Constructed a computer-controlled player using the Robot class
 
 ### Education
-
+**_University of Waterloo_** 
+Bachelor of Software Engineering 
+_Sept 2021- Apr 2026_ (EXPECTED)
 
 **Bold** and _Italic_ and `Code` text
 
