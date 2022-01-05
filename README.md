@@ -20,12 +20,14 @@ build to be completed within set budget of 2.5 million dollars completed within 
 • Designed the complete network system and utilized AutoCAD to create custom fittings for cable wall plates.
 
 **_Code-It Hacks_** -Summer Camp Specialist/Leader
+
 •Worked hand-in-hand with PhD students to teach kids (ages 13-16) beginner to intermediate coding
 
 •Taught beginner Python, JavaScript 
 
 ### Projects
 **_DigiTalli_** -2021
+
 • Developed and programmed a device that counts the number of people entering and exiting a space/room, checks temperature, and sends SMS notifications to notify attendees when a store or other location is ready for them to enter. 
 
 • Used an Arduino Uno board to implement LED lights, LCD display, sound buzzers, and temperature sensors 
@@ -33,6 +35,7 @@ build to be completed within set budget of 2.5 million dollars completed within 
 •  Controlled the electric current sent to each component of the circuit via the digital pins of the Arduino through a C program. 
 
 **_Reversi Game_** - 2021
+
 • Wrote code to play the very popular "Reversi" game, using VS Code, puTTY and multiple online compilers such as Replit
 
 • Designed the game so that it would give the player tips on how to win, and which moves to make while at a certain point on the game board.
