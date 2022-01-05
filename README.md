@@ -41,7 +41,9 @@ build to be completed within set budget of 2.5 million dollars completed within 
 
 ### Education
 **_University of Waterloo_** 
+
 Bachelor of Software Engineering 
+
 _Sept 2021- Apr 2026_ (EXPECTED)
 
 ### Skills
@@ -51,7 +53,9 @@ _Sept 2021- Apr 2026_ (EXPECTED)
 •Java
 •HTML
 
-### Contact Me!
+### **Contact Me!**
 Email: a39alam@uwaterloo.ca
+
 LinkedIn: https://www.linkedin.com/in/alishba-alam/
+
 Phone: 905-577-5414
