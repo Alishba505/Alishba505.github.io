@@ -21,6 +21,7 @@ build to be completed within set budget of 2.5 million dollars completed within 
 
 **_Code-It Hacks_** -Summer Camp Specialist/Leader
 •Worked hand-in-hand with PhD students to teach kids (ages 13-16) beginner to intermediate coding
+
 •Taught beginner Python, JavaScript 
 
 ### Projects
@@ -43,17 +44,14 @@ build to be completed within set budget of 2.5 million dollars completed within 
 Bachelor of Software Engineering 
 _Sept 2021- Apr 2026_ (EXPECTED)
 
-**Bold** and _Italic_ and `Code` text
+### Skills
+•C
+•C++
+•Python
+•Java
+•HTML
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alishba505/Alishba505.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Me!
+Email: a39alam@uwaterloo.ca
+LinkedIn: https://www.linkedin.com/in/alishba-alam/
+Phone: 905-577-5414
