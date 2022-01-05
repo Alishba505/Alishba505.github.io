@@ -8,9 +8,7 @@ I am a 1A Software Engineering student currently studying at the Univeristy of W
 
 
 ### Experience
-_Custome Home Build_ -Project Manager 
-
-Stoney Creek, Ontario
+**_Custome Home Build_** -Project Manager 
 
 • Organized and facilitated the complete construction process from initial planning to house closing alongside professional contractors.
 
@@ -22,9 +20,6 @@ build to be completed within set budget of 2.5 million dollars completed within 
 
 • Designed the complete network system and utilized AutoCAD to create custom fittings for cable wall plates.
 
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
