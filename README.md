@@ -1,5 +1,8 @@
 ## Alishba Alam
-##Hi, I'm Alishba Alam!
+Hi, I'm Alishba Alam!
+
+**About Me**
+I am a 1A Software Engineering student currently studying at the Univeristy of Waterloo. I am interested in creating and devloping apps, integrating computer science into day to day living while using new tools and technology to make the world around me a better and more adequate place.
 You can use the [editor on GitHub](https://github.com/Alishba505/Alishba505.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
