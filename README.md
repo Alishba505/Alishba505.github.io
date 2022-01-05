@@ -1,5 +1,5 @@
 
-
+#Alishba Alam
 Hi, I'm Alishba Alam!
 
 ### **About Me**
@@ -19,6 +19,10 @@ approvals and final acceptance.
 build to be completed within set budget of 2.5 million dollars completed within 13 months
 
 • Designed the complete network system and utilized AutoCAD to create custom fittings for cable wall plates.
+
+**_Code-It Hacks_** -Summer Camp Specialist/Leader
+•Worked hand-in-hand with PhD students to teach kids (ages 8-16) beginner to intermediate coding languages
+•
 ### Projects
 **_DigiTalli_** -2021
 • Developed and programmed a device that counts the number of people entering and exiting a space/room, checks temperature, and sends SMS notifications to notify attendees when a store or other location is ready for them to enter. 
