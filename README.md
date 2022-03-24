@@ -7,7 +7,7 @@ I am a Software Engineering student currently studying at the Univeristy of Wate
 
 
 ### Experience
-**_Custome Home Build_** -Project Manager 
+**_Custom Home Build_** -Project Manager 
 
 • Organized and facilitated the complete construction process from initial planning to house closing alongside professional contractors.
 
